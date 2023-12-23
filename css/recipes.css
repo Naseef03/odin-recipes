@@ -1,0 +1,40 @@
+body {
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    list-style: none;
+    border-bottom: solid black 1px;
+    padding: 0.5em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.recipe {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #CC231E;
+    padding: 3%;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
+
+ul,
+ol {
+    padding-left: 0;
+}
+
+h2 {
+    font-size: 2em;
+    color: coral;
+}
